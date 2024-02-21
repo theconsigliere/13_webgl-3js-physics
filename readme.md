@@ -2,4 +2,4 @@
 
 ## 20 - Physics
 
-[Screenshot]('static/screenshot.png')
+[Screenshot]('/static/screenshot.png')
