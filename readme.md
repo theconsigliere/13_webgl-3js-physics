@@ -2,4 +2,4 @@
 
 ## 20 - Physics
 
-[Screenshot](screenshot.png)
+![Screenshot of my app](screenshot.png)
